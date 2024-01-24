@@ -1,4 +1,4 @@
-# Natural ou Fake natty - Como as IAs Generativas impactarão os negócios e as gerações futuras;)
+# Natural ou Fake Natty - Como as IAs Generativas impactarão os negócios e as gerações futuras;
 
 ## 📒 Descrição
 O E-Book criado tem como objetivo mostrar que a IA Generativa - irá determinar não só o comportamento dos negócios, mas a maneira de trabalhar das novas gerações.
